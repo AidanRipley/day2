@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="day2">
+    <serverData>
+      <paths name="day2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/afs/cad.njit.edu/u/a/d/adr44" local="$PROJECT_DIR$" web="https://web.njit.edu~adr44/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
